@@ -25,9 +25,9 @@ primary key(ko,kr,ps)
     6   3   1   56  10:00
     6   3   2   47  11:00
 
-Am descris trei rute fictive ale operatorului 6 intre statiile 47 si 56
+Am descris trei rute fictive ale operatorului 6 între stațiile 47 și 56
 
-E nevoie de un cimp ps (pozitie statie in ruta) ca sa ai ruta in ordinea corecta
+E nevoie de un cîmp ps (poziție stație in rută) ca sa ai ruta in ordinea corecta
 Asta pentru ca nu te poti baza pe ora : exista curse de noapte
 
 Operator A
